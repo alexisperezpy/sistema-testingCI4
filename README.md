@@ -1,14 +1,13 @@
-
 # Sistema Testing CI4
 
-Este es un sistema de gestión y pruebas desarrollado con el framework **CodeIgniter 4**, enfocado en la eficiencia y escalabilidad.
+Este es un sistema de gestión y pruebas desarrollado con el framework **CodeIgniter 4**, enfocado en la eficiencia y escalabilidad. El test se realiza para evaluar la efecitividad, velocidad y capacidad de escalmiento del framework para el futuro desarrollo del Sistema Totum360 (para gestión de normas ISO)
 
 ## 🚀 Tecnologías Utilizadas
 
-* **PHP:** 8.1+
-* **Framework:** CodeIgniter 4.x
-* **Base de Datos:** MariaDB / MySQL
-* **Frontend:** [Menciona si usas Bootstrap, Tailwind, o solo PHP]
+* **PHP:** 8.3+
+* **Framework:** CodeIgniter 4.7
+* **Base de Datos:** MariaDB
+* **Frontend:** [ Bootstrap, PHP]
 
 ## 🛠️ Instalación y Configuración
 
